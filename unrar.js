@@ -1,0 +1,1 @@
+Unrar = Npm.require('unrar');
